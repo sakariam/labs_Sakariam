@@ -4,6 +4,7 @@ public class lab3 {
 
         System.out.println("test");
         System.out.println("aaa");
+        System.out.println("new");
 
     }
 }
